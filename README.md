@@ -6,3 +6,4 @@ Abdirisak Dayib
 - Flutter
 ## Goals
 - Become a software developer
+- learn Ethical Hacking
