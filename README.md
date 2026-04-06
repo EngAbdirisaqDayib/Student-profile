@@ -7,4 +7,4 @@ Abdirisak Dayib
 ## Goals
 - Become a software developer
 - learn Ethical Hacking
-- become graphic designer
+- become graphic designerr
